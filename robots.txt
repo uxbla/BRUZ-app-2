@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uxbla.github.io/BRUZ-app-2/sitemap.xml
